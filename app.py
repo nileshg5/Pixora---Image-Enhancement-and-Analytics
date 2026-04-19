@@ -17,7 +17,7 @@ except Exception as import_error:
     CV2_IMPORT_ERROR = str(import_error)
 
 
-st.set_page_config(page_title="Image Enhancement & Analytics Portal", layout="wide")
+st.set_page_config(page_title="Pixora", layout="wide")
 
 
 # ----------------------------
