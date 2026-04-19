@@ -237,7 +237,7 @@ def reset_enhancement_state():
 # ----------------------------
 # Main app
 # ----------------------------
-st.title("Image Enhancement & Analytics Portal")
+st.title("Pixora")
 st.caption("A simple Streamlit app for basic image editing, analysis, and image/PDF conversion.")
 
 if not CV2_AVAILABLE:
